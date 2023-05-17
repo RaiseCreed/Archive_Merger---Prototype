@@ -1,4 +1,4 @@
-# Database_Connection_Checker
+# Archive_Merger---Prototype
 
 ![Screenshot](screenshot.png)
 
