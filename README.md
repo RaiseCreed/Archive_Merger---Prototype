@@ -2,25 +2,24 @@
 
 ![Screenshot](screenshot.png)
 
-IMPORTANT: This app is a prototype! It works, but has some problems with larger archives and may be unstable.
-
-
-Archive Merger
+### IMPORTANT: This app is a prototype! It works, but has some problems with larger archives and may be unstable.
 
 This app can be used for merging multiple archives into one.
 
-Supported archive types:
+## Supported archive types:
 - .rar
 - .zip
 - .7z
 
-Usage:
+> Note: You can merge archives of different types.
+
+## Usage:
 1. Select files for merging
 2. Select destination path (where the merged archive will be created)
 3. Select output filetype
 4. Merge!
 
-Duplicates / Overwriting
+## Duplicates / Overwriting
 
 When there is two or more folders that share the same name, only one folder will appear in merged archive (with original name), but it will contain files from all 'versions' of that folder.
 
